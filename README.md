@@ -21,4 +21,4 @@ You can build and program your own Tiny Titan using the plans and parts lists av
 * [1 x NETGEAR ProSAFE 16-Port Fast Ethernet Desktop Switch (FS116)](http://www.amazon.com/NETGEAR-ProSAFE-16-Port-Ethernet-Desktop/dp/B000063UZW/)
 
 
-The final part is the laser cut acrylic cases. We recommend ordering from [http://www.ponoko.com](Ponoko). They allow you to upload svg files and have materials laser cut. Our design, available [here](https://raw.github.com/olcf/tinytitan/master/images/tinytitan_p3_inkscape_fixed.svg), is an upright cabinet version of this [excellent design](http://www.thingiverse.com/thing:25100).
+The final part is the laser cut acrylic cases. We recommend ordering from [Ponoko](http://www.ponoko.com). They allow you to upload svg files and have materials laser cut. Our design, available [here](https://raw.github.com/olcf/tinytitan/master/images/tinytitan_p3_inkscape_fixed.svg), is an upright cabinet version of this [excellent design](http://www.thingiverse.com/thing:25100).
