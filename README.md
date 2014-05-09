@@ -5,7 +5,7 @@ Tiny Titan is a sub-$1,000 classroom supercomputer designed to teach aspiring sc
 
 ## Software
 Tiny Titan features a cornucopia of interactive parallel computing demonstrations and exercises. Some of these are available below:
-* [Interactive Fluid Mechanics](https://github.com/adamsimpson/SPH) 
+* [Interactive Fluid Mechanics](https://github.com/adamsimpson/SPH)
 * [PiBrot Race](https://github.com/AdamSimpson/Mandelbrot)
 
 ## Build your Own
@@ -20,8 +20,5 @@ You can build and program your own Tiny Titan using the plans and parts lists av
 * [1 x Steel Hex Nut, M3-0.5 Threads, Made in US (Pack of 100)](http://www.amazon.com/gp/product/B000NBIH92/)
 * [3 x Plugable 7 Port High Speed USB 2.0 Hub with 3A Power Adapter](http://www.amazon.com/gp/product/B003Z4G3I6/)
 * [1 x NETGEAR ProSAFE 16-Port Fast Ethernet Desktop Switch (FS116)](http://www.amazon.com/NETGEAR-ProSAFE-16-Port-Ethernet-Desktop/dp/B000063UZW/)
-
-
-<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://www.thingiverse.com/thing:25100"><span property="dct:title">Raspberry Pi Enclosure</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://www.thingiverse.com/builttospec">builttospec</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
 
 The final part is the laser cut acrylic cabinets. We recommend ordering from [Ponoko](http://www.ponoko.com). They allow you to upload svg files and have materials laser cut. Our design, available [here](https://raw.github.com/olcf/tinytitan/master/images/tinytitan_p3_inkscape_fixed.svg), is an upright cabinet version of this [excellent Raspberry Pi Enclosure](http://www.thingiverse.com/thing:25100) by [builttospec](http://www.thingiverse.com/builttospec), and is likewise available under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0).
