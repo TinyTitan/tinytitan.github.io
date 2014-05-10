@@ -24,9 +24,11 @@ figure {
       -webkit-transition-duration: 0.25s;
       -moz-transition-duration: 0.25s;
       -o-transition-duration: 0.25s;
+      .opacity(0.7);
       &:hover {
         .translate(0, -5px);
-        .box-shadow(0 0 10px fade(@base-color, 20));
+        .box-shadow(0 0 10px fade(@black, 20));
+        .opacity(1);
       }
     }
   }
@@ -66,66 +68,16 @@ svg:not(:root) {
   margin-bottom: 20px;
   padding: 8px 20px;
   .font-rem(14);
-  background-color: @primary;
+  background-color: @black;
   color: @white;
-  border-width: 2px !important;
-  border-style: solid !important;
-  border-color: @primary;
-  .rounded(3px);
+  border: 2px solid @black !important;
+  .rounded(20px);
   &:visited {
     color: @white;
   }
   &:hover {
     background-color: @white;
-    color: @primary;
-  }
-}
-.btn-success {
-  background-color: @success;
-  color: @white;
-  border-color: @success;
-  &:visited {
-    color: @white;
-  }
-  &:hover {
-    background-color: @white;
-    color: @success;
-  }
-}
-.btn-warning {
-  background-color: @warning;
-  color: @white;
-  border-color: @warning;
-  &:visited {
-    color: @white;
-  }
-  &:hover {
-    background-color: @white;
-    color: @warning;
-  }
-}
-.btn-danger {
-  background-color: @danger;
-  color: @white;
-  border-color: @danger;
-  &:visited {
-    color: @white;
-  }
-  &:hover {
-    background-color: @white;
-    color: @danger;
-  }
-}
-.btn-info {
-  background-color: @info;
-  color: @white;
-  border-color: @info;
-  &:visited {
-    color: @white;
-  }
-  &:hover {
-    background-color: @white;
-    color: @info;
+    color: @black;
   }
 }
 

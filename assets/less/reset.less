@@ -3,14 +3,10 @@
 // Adapted from http://github.com/necolas/normalize.css
 // --------------------------------------------------
 
-*, *:after, *:before {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
 
 // Display in IE6-9 and FF3
 // -------------------------
+
 article,
 aside,
 details,
@@ -26,6 +22,7 @@ section {
 
 // Display block in IE6-9 and FF3
 // -------------------------
+
 audio,
 canvas,
 video {
@@ -36,12 +33,14 @@ video {
 
 // Prevents modern browsers from displaying 'audio' without controls
 // -------------------------
+
 audio:not([controls]) {
     display: none;
 }
 
 // Base settings
 // -------------------------
+
 html {
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
@@ -59,6 +58,7 @@ a:active {
 
 // Prevents sub and sup affecting line-height in all browsers
 // -------------------------
+
 sub,
 sup {
   position: relative;
@@ -75,12 +75,14 @@ sub {
 
 // Blockquote
 // -------------------------
+
 blockquote {
   margin: 0;
 }
 
 // Img border in a's and image quality
 // -------------------------
+
 img {
   /* Responsive images (ensure images don't scale beyond their parents) */
   max-width: 100%; /* Part 1: Set a maxium relative to the parent */
@@ -100,6 +102,7 @@ img {
 
 // Forms
 // -------------------------
+
 // Font size in all browsers, margin changes, misc consistency
 button,
 input,
@@ -149,9 +152,11 @@ textarea {
   vertical-align: top; // Readability and alignment cross-browser
 }
 
+
 // Printing
 // -------------------------
 // Source: https://github.com/h5bp/html5-boilerplate/blob/master/css/main.css
+
 @media print {
 
   * {
@@ -160,46 +165,57 @@ textarea {
     background: transparent !important;
     box-shadow: none !important;
   }
+
   a,
   a:visited {
     text-decoration: underline;
   }
+
   a[href]:after {
     content: " (" attr(href) ")";
   }
+
   abbr[title]:after {
     content: " (" attr(title) ")";
   }
+
   // Don't show links for images, or javascript/internal links
   .ir a:after,
   a[href^="javascript:"]:after,
   a[href^="#"]:after {
     content: "";
   }
+
   pre,
   blockquote {
     border: 1px solid #999;
     page-break-inside: avoid;
   }
+
   thead {
     display: table-header-group; // h5bp.com/t
   }
+
   tr,
   img {
     page-break-inside: avoid;
   }
+
   img {
     max-width: 100% !important;
   }
+
   @page {
     margin: 0.5cm;
   }
+
   p,
   h2,
   h3 {
     orphans: 3;
     widows: 3;
   }
+
   h2,
   h3 {
     page-break-after: avoid;

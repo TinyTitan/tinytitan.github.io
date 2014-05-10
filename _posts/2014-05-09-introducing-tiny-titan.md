@@ -5,7 +5,7 @@ description: "Just about everything you'll need to style in the theme: headings,
 modified: 2014-05-09
 tags: [hardware]
 image:
-  feature: abstract-3.jpg
+  feature: IMG_20140507_095849.jpg
 comments: false
 share: true
 ---
