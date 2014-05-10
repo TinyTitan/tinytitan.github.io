@@ -1,6 +1,5 @@
 title:            Tiny Titan
 description:      A Supercomputer for the Classroom
-logo:             leaf_white_circle.png
 disqus_shortname:
 #Your site's domain goes here. Leave localhost server or blank when working locally.
   url:            http://tinytitan.github.io/
@@ -36,14 +35,22 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About
-    url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+    url: /
+  - title: Parts
+    url: /parts/
+  - title: Assembly
+    url: /assembly/
+  - title: Software
+    url: /software/
+  # - title: Latest Posts
+  #   url: /latest-posts.html
+  # - title: Articles
+  #   url: /articles/
+  # - title: Theme Setup
+  #   url: /theme-setup/
+  # - title: Made Mistakes
+  #   url: http://mademistakes.com
+  #   external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
