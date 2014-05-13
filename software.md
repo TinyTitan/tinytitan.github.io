@@ -1,20 +1,34 @@
 ---
 layout: page
-title: Software
+title: Software Setup
 permalink: /software/
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 modified: 2013-05-31
 category: articles
-tags: [sample post]
-image:
-  feature: so-simple-sample-image-1.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+# image:
+#   feature: so-simple-sample-image-1.jpg
+#   credit: Michael Rose
+#   creditlink: http://mademistakes.com
 comments: true
 share: true
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+These are the steps necessary to get your Raspberry Pis talking to each other on
+a network using MPI.
+
+### Requirements
+
+- Raspberry Pis running the Raspbian distribution
+- A network router or switch to connect the Pis to
+
+### Installation Steps
+
+1. The first step is to power up each Pi and get Rasbian installed on the
+   sdcard. Follow the [NOOBS Setup Guide](http://www.raspberrypi.org/help/noobs-setup/)
+   for instructions.
+
+2. Once you have Raspian running on each Pi you'll need to login to it either
+   directly with a keyboard, mouse, and monitor or remotely over ssh.
+
 
 # Heading 1
 
@@ -30,14 +44,23 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ### Body text
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**.
+Nullam dignissim convallis est. Quisque aliquam.
 
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
 {: .pull-right}
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water
+is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at,
+tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a
+citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus
+eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat
+at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
 
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a
+ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi
+imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum,
+turpis mi volutpat justo, eu volutpat enim diam eget metus.
 
 ### Blockquotes
 
