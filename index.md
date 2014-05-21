@@ -5,7 +5,9 @@ description: "A sub-$1,000 classroom supercomputer"
 modified: 2014-05-09
 tags: [hardware]
 image:
-  feature: IMG_20140507_095849.jpg
+  feature: leadership_glamour_shot.jpg
+  credit: Adam Simpson
+  creditlink: http://olcf.ornl.gov
 comments: false
 share: true
 ---
