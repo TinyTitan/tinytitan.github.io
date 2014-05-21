@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Parts
-permalink: /parts/
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: Curriculum
+permalink: /curriculum/
+description: "An ideal platform for HPC education"
 modified: 2013-05-31
 category: articles
 tags: [sample post]

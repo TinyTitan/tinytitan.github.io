@@ -36,8 +36,8 @@ bing_verify:
 links:
   - title: About
     url: /
-  - title: Parts
-    url: /parts/
+  - title: Curriculum
+    url: /curriculum/
   - title: Assembly
     url: /assembly/
   - title: Software
