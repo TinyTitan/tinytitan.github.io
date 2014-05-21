@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tiny Titan
-description: "All About Tiny Titan"
+description: "A sub-$1,000 classroom supercomputer"
 modified: 2014-05-09
 tags: [hardware]
 image:
@@ -16,10 +16,7 @@ Tiny Titan is a sub-$1,000 classroom supercomputer designed to teach aspiring sc
 
 ## Software
 
-Tiny Titan features a cornucopia of interactive parallel computing demonstrations and exercises. Some of these are available below:
-
-* [Interactive Fluid Mechanics](https://github.com/adamsimpson/SPH)
-* [PiBrot Race](https://github.com/AdamSimpson/Mandelbrot)
+Tiny Titan features interactive simulations that showcase the basic concepts of parallel computing. An Xbox controller allows students to explore load-balancing and communication by directing the simulation in real-time. Each of these simulations are frely available on our [GitHub](https://github.com/tinytitan). 
 
 ## Build your Own
 
