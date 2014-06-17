@@ -26,7 +26,7 @@ owner:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-38580803-1
+google_analytics: UA-38580803-2
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -77,4 +77,3 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "vendor", "example_posts"]
-
