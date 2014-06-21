@@ -18,7 +18,7 @@ Tiny Titan is a sub-$1,000 classroom supercomputer designed to teach aspiring sc
 
 ## Software
 
-Tiny Titan features interactive simulations that showcase the basic concepts of parallel computing. An Xbox controller allows students to explore load-balancing and communication by directing the simulation in real-time. Each of these simulations are frely available on our [GitHub](https://github.com/tinytitan). 
+Tiny Titan features interactive simulations that showcase the basic concepts of parallel computing. An Xbox controller allows students to explore load-balancing and communication by directing the simulation in real-time. Each of these simulations are frely available on our [GitHub](https://github.com/tinytitan).
 
 ## Build your Own
 
@@ -37,6 +37,8 @@ You can build and program your own Tiny Titan using the plans and parts lists av
 | 1              | [NETGEAR ProSAFE 16-Port Fast Ethernet Desktop Switch (FS116)](http://www.amazon.com/NETGEAR-ProSAFE-16-Port-Ethernet-Desktop/dp/B000063UZW/)                                                                       |
 {: rules="groups"}
 
-The final part is the laser cut acrylic cabinets. We recommend ordering from [Ponoko](http://www.ponoko.com). They allow you to upload svg files and have materials laser cut. Our design, available [here](https://raw.github.com/olcf/tinytitan/master/images/tinytitan_p3_inkscape_fixed.svg), is an upright cabinet version of this [excellent Raspberry Pi Enclosure](http://www.thingiverse.com/thing:25100) by [builttospec](http://www.thingiverse.com/builttospec), and is likewise available under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0).
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+The final part is the laser cut acrylic cabinets. We recommend ordering from [Ponoko](http://www.ponoko.com). They allow you to upload svg files and have materials laser cut. Our design is an upright cabinet version of this [excellent Raspberry Pi Enclosure](http://www.thingiverse.com/thing:25100) by [builttospec](http://www.thingiverse.com/builttospec), and is likewise available under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0). You can download [SketchUp](http://www.sketchup.com) and [Ponoko](https://www.ponoko.com/) compatible svg files of our model here:
 
+- [tinytitan_assembled_model.skp](http://tinytitan.github.io/downloads/tinytitan_assembled_model.skp),
+- [tinytitan_flattened_parts.skp](http://tinytitan.github.io/downloads/tinytitan_flattened_parts.skp),
+- [tinytitan_p3_inkscape_fixed.svg](http://tinytitan.github.io/downloads/tinytitan_p3_inkscape_fixed.svg),
