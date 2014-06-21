@@ -21,4 +21,8 @@ You can build and program your own Tiny Titan using the plans and parts lists av
 * [3 x Plugable 7 Port High Speed USB 2.0 Hub with 3A Power Adapter](http://www.amazon.com/gp/product/B003Z4G3I6/)
 * [1 x NETGEAR ProSAFE 16-Port Fast Ethernet Desktop Switch (FS116)](http://www.amazon.com/NETGEAR-ProSAFE-16-Port-Ethernet-Desktop/dp/B000063UZW/)
 
-The final part is the laser cut acrylic cabinets. We recommend ordering from [Ponoko](http://www.ponoko.com). They allow you to upload svg files and have materials laser cut. Our design, available [here](https://raw.github.com/olcf/tinytitan/master/images/tinytitan_p3_inkscape_fixed.svg), is an upright cabinet version of this [excellent Raspberry Pi Enclosure](http://www.thingiverse.com/thing:25100) by [builttospec](http://www.thingiverse.com/builttospec), and is likewise available under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0).
+The final part is the laser cut acrylic cabinets. We recommend ordering from [Ponoko](http://www.ponoko.com). They allow you to upload svg files and have materials laser cut. Our design is an upright cabinet version of this [excellent Raspberry Pi Enclosure](http://www.thingiverse.com/thing:25100) by [builttospec](http://www.thingiverse.com/builttospec), and is likewise available under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0). You can download [SketchUp](http://www.sketchup.com) and [Ponoko](https://www.ponoko.com/) compatible svg files of our model here:
+
+- [tinytitan_assembled_model.skp](http://tinytitan.github.io/downloads/tinytitan_assembled_model.skp)
+- [tinytitan_flattened_parts.skp](http://tinytitan.github.io/downloads/tinytitan_flattened_parts.skp)
+- [tinytitan_p3_inkscape_fixed.svg](http://tinytitan.github.io/downloads/tinytitan_p3_inkscape_fixed.svg)
