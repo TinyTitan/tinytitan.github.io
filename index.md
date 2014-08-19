@@ -38,8 +38,15 @@ You can build and program your own Tiny Titan using the plans and parts lists av
 | 1              | [Linksys WRT54GL WiFi Wireless Router](http://www.amazon.com/Linksys-WRT54GL-Wireless-G-Broadband-Router/dp/B000BTL0OA/)                                                                       |
 {: rules="groups"}
 
-The final part is the laser cut acrylic cabinets. We recommend ordering from [Ponoko](http://www.ponoko.com). They allow you to upload svg files and have materials laser cut. Our design is an upright cabinet version of this [excellent Raspberry Pi Enclosure](http://www.thingiverse.com/thing:25100) by [builttospec](http://www.thingiverse.com/builttospec), and is likewise available under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0). You can download [SketchUp](http://www.sketchup.com) and [Ponoko](https://www.ponoko.com/) compatible svg files of our model here:
+The final part is the laser cut acrylic cabinets. We recommend ordering from [Ponoko](http://www.ponoko.com). They allow you to upload svg files and have materials laser cut. Our design is an upright cabinet version of this [excellent Raspberry Pi Enclosure](http://www.thingiverse.com/thing:25100) by [builttospec](http://www.thingiverse.com/builttospec), and is likewise available under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0).
+
+You can download a [SketchUp](http://www.sketchup.com) model of our case here:
 
 - [tinytitan_assembled_model.skp](http://tinytitan.github.io/downloads/tinytitan_assembled_model.skp)
 - [tinytitan_flattened_parts.skp](http://tinytitan.github.io/downloads/tinytitan_flattened_parts.skp)
+
+and [Ponoko](https://www.ponoko.com/) compatible svg files of our model here:
+
 - [tinytitan_p3_inkscape_fixed.svg](http://tinytitan.github.io/downloads/tinytitan_p3_inkscape_fixed.svg)
+- [tinytiyan_lightpipes_p1_inkscape.svg](http://tinytitan.github.io/downloads/tinytiyan_lightpipes_p1_inkscape.svg)
+
