@@ -26,7 +26,8 @@ You can build and program your own Tiny Titan using the plans and parts lists av
 
 | Quantity&nbsp; | Item                                                                                                                                                                                                                 |
 | :--------:     | :--------                                                                                                                                                                                                            |
-| 9              | [RASPBERRY-PI  RASPBERRY-PI/8GB-USD  MODEL B - 8GB SDCard W/ NOOBS PRE-INSTALLED](http://www.newark.com/raspberry-pi/raspberry-pi-8gb-usd/model-b-8gb-sdcard-w-noobs-pre/dp/04X5042)                                 |
+| 9              | [RASPBERRY-PI  RASPBERRY-PI/8GB-USD  MODEL B](http://www.amazon.com/gp/product/B009SQQF9C/)                                 |
+| 9              | [Raspberry Pi 8GB Preloaded NOOBS SD Card](http://www.amazon.com/gp/product/B00ENPQ1GK/)                                 |
 | 9              | [Flowing Effect MicroUSB Data+Charging Cable - Black w/Aqua EL](http://www.adafruit.com/products/1233)                                                                                                               |
 | 2              | [5 pack, 3ft Flat Ethernet Cable](http://www.amazon.com/Cable-Matters-5-Pack-Snagless-Ethernet/dp/B00E5I7UF6/)                                                                                                               |
 | 1              | [Microsoft Xbox 360 Wireless Controller for Windows](http://www.amazon.com/Microsoft-Xbox-Wireless-Controller-Windows/dp/B004QRKWKQ/)                                                                       |
