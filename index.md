@@ -18,7 +18,7 @@ Tiny Titan is a sub-$1,000 classroom supercomputer designed to teach aspiring sc
 
 ## Software
 
-Tiny Titan features interactive simulations that showcase the basic concepts of parallel computing. An Xbox controller allows students to explore load-balancing and communication by directing the simulation in real-time. Each of these simulations are frely available on our [GitHub](https://github.com/tinytitan).
+Tiny Titan features interactive simulations that showcase the basic concepts of parallel computing. An Xbox controller allows students to explore load-balancing and communication by directing the simulation in real-time. Each of these simulations are freely available on our [GitHub](https://github.com/tinytitan).
 
 ## Build your Own
 
