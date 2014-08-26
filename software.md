@@ -4,10 +4,6 @@ title: Software Setup
 permalink: /software/
 modified: 2013-05-31
 category: articles
-image:
-  feature: SPH_Screenshot.png
-  credit: Adam Simpson
-  creditlink: http://olcf.ornl.gov
 comments: true
 share: true
 ---
