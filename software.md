@@ -47,12 +47,11 @@ TinySPH is a parallel 2D Smoothed Particle Hydrodynamics(SPH) code, designed to 
 
 ![alt text](https://raw.githubusercontent.com/AdamSimpson/SPH/master/images/SPH_Screenshot.png "SPH Screenshot")
 
-For full details please see the TinySPH github page: https://github.com/TinyTitan/SPH
+For full details please see the [TinySPH github page](https://github.com/TinyTitan/SPH)
 
 # PiBrot
 PiBrot is a parallel Mandelbrot set race. The screen is divided in half vertically with one MPI task drawing the left side image and an identical image being drawn on the right side with N-2 MPI tasks, where N is the total number of MPI tasks.
 
-The completed image on the right as the left attempts to catch up
 ![alt text](https://raw.githubusercontent.com/AdamSimpson/PiBrot/master/images/final_screenshot.png "Final Screenshot")
 
-For full details please see the PiBrot github page: https://github.com/TinyTitan/PiBrot
+For full details please see the [PiBrot github page](https://github.com/TinyTitan/PiBrot)
