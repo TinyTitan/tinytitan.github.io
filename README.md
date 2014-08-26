@@ -1,12 +1,12 @@
 ### Tiny Titan
 Tiny Titan is a sub-$1,000 classroom supercomputer designed to teach aspiring scientists the basics of parallel computing. Unlike modern desktops and laptops that hide parallelism from the user, Tiny Titan makes parallel concepts explicit.
 
-[![SPH](http://tinytitan.github.io/images/four_cabinet_sph.jpg)](http://tinytitan.github.io/images/four_cabinet_sph.jpg)
+[![SPH](http://tinytitan.github.io/images/three_cabinet_sph.jpg)](http://tinytitan.github.io/images/three_cabinet_sph.jpg)
 
 ## Software
 Tiny Titan features a cornucopia of interactive parallel computing demonstrations and exercises. Some of these are available below:
-* [Interactive Fluid Mechanics](https://github.com/adamsimpson/SPH)
-* [PiBrot Race](https://github.com/AdamSimpson/Mandelbrot)
+* [Interactive Fluid Mechanics](https://github.com/TinyTitan/SPH)
+* [PiBrot Race](https://github.com/TinyTitan/PiBrot)
 
 ## Build your Own
 You can build and program your own Tiny Titan using the plans and parts lists available here:
