@@ -25,6 +25,8 @@ Step one will update each Raspberry Pi and configure the name and network settin
 
 ```
 $ curl -kfsSLO https://raw.github.com/TinyTitan/TinySetup/master/pi_setup.sh
+```
+```
 $ bash pi_setup.sh
 ```
 
@@ -35,7 +37,11 @@ With step one completed on all nodes connect each node to the router or switch. 
 
 ```
 $ git clone https://github.com/TinyTitan/TinySetup.git
+```
+```
 $ cd TinySetup
+```
+```
 $ bash pi_post_setup.sh
 ```
 
