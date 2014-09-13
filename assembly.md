@@ -9,10 +9,23 @@ comments: true
 share: true
 ---
 
-Assembly in progress
+The following covers the asembly of the original TinyTitan case. We are currently in the process of moving to a much easier to assemble case that works with the RaspberryPi B+.
 
+## Step 1
+Carefully remove the acrylic components required for a single TinyTitan cabinet from the laser cut sheet. Each piece is covered in protective was paper.
 ![image 1](http://tinytitan.github.io/images/Construction-v1/image1.jpg)
+
+## Step 2
+The following hardware will be neccessary for assembly:
+
+- 12 18-8 M3-0.5 screws
+- 12 M3-0.5 hex nuts
+- 1 M3 allen wrench
+
+Also note the optional 15 light pipes
 ![image 2](http://tinytitan.github.io/images/Construction-v1/image2.jpg)
+
+
 ![image 3](http://tinytitan.github.io/images/Construction-v1/image3.jpg)
 ![image 4](http://tinytitan.github.io/images/Construction-v1/image4.jpg)
 ![image 5](http://tinytitan.github.io/images/Construction-v1/image5.jpg)
