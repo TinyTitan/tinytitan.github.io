@@ -11,5 +11,5 @@ share: true
 
 Assembly in progress
 
-![alt text](https://raw.githubusercontent.com/AdamSimpson/PiBrot/master/images/Construction-v1/image1.jpg "")
+![alt text](http://tinytitan.github.io/images/Construction-v1/image1.jpg "")
 
