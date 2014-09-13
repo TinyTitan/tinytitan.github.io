@@ -9,7 +9,7 @@ comments: true
 share: true
 ---
 
-The following covers the asembly of the original TinyTitan case. We are currently in the process of moving to a much easier to assemble case that works with the RaspberryPi B+. Please note that the LED pictured attached to each RaspberryPi is no longer recomended and can be disregarded.
+The following covers the asembly of the original TinyTitan case. We are currently in the process of moving to a much easier to assemble case that works with the RaspberryPi B+. Please note that the LED pictured attached to each RaspberryPi is no longer recomended, even for this older case design.
 
 ## Step 1
 Carefully remove the acrylic components required for a single TinyTitan cabinet from the laser cut sheet. Each piece is covered in protective paper.
