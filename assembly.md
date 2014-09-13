@@ -109,8 +109,9 @@ Carefully insert the top of the enclosure without distrupting the other pieces.
 ![image 31](http://tinytitan.github.io/images/Construction-v1/image31.jpg)
 
 ## Step 20
-Carefully snug up each bolt, too much torque can crack the acrylic.
+Carefully snug up all 12 bolts, be aware that too much torque will crack the acrylic.
 ![image 32](http://tinytitan.github.io/images/Construction-v1/image32.jpg)
+![image 21](http://tinytitan.github.io/images/Construction-v1/image21.jpg)
 
 ## Step 21
 Congratulations, you're finished!
