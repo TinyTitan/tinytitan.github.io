@@ -42,34 +42,75 @@ Locate the 3 platform pieces and insert the 15 light pipes as shown.
 ![image 6](http://tinytitan.github.io/images/Construction-v1/image6.jpg)
 
 ## Step 7
-Carefully fit the 3 pieces constructed above into the acrylic side. The acrylic side will have cutouts for the light pipes. 
+Carefully fit the 3 pieces constructed above into the acrylic side. The correct acrylic side will have cutouts for the light pipes. 
 ![image 7](http://tinytitan.github.io/images/Construction-v1/image7.jpg)
 
-
+## Step 8
+Rotate the entire structure from <b>Step 7</b> onto the structure from <b>Step 5</b>. Initially do you worry about fitting the tabs into the appropriate slot.
 ![image 8](http://tinytitan.github.io/images/Construction-v1/image8.jpg)
+
+## Step 9
+Carefully align each tab and slot.
 ![image 9](http://tinytitan.github.io/images/Construction-v1/image9.jpg)
+Another view of the aligned structure.
 ![image 10](http://tinytitan.github.io/images/Construction-v1/image10.jpg)
+
+## Step 10
+Locate the three support pieces and top as shown.
 ![image 11](http://tinytitan.github.io/images/Construction-v1/image11.jpg)
+
+## Step 11
+Orient the 3 support pieces as shown. The top of the cabinet(the right-most vertical piece of acrylic) does not have to be included yet.
 ![image 12](http://tinytitan.github.io/images/Construction-v1/image12.jpg)
+
+## Step 12
+Locate the acrylic plate with a slot cut out for each SD card and loosely place it on the structure.
 ![image 13](http://tinytitan.github.io/images/Construction-v1/image13.jpg)
+
+## Step 13
+Light up each tab and slot on the SD card facing side. The left most piece as shown should be removed for the time being.
 ![image 14](http://tinytitan.github.io/images/Construction-v1/image14.jpg)
 ![image 15](http://tinytitan.github.io/images/Construction-v1/image15.jpg)
+
+## Step 14
+Inserting the nuts can be tricky so the following will aid in construction. Remove one of the thin acrylic strips left over from the original acrylic sheet and wrap it in electrical tape sticky side out. This allows the small nuts to be stuck to the tape as such. 
 ![image 16](http://tinytitan.github.io/images/Construction-v1/image16.jpg)
+
+## Step 15
+Carefully insert the 6 nuts and 6 bolts as shown below, loosely tightening them just enough to stay in place. <b>DO NOT</b> over tighten the bolts.
 ![image 17](http://tinytitan.github.io/images/Construction-v1/image17.jpg)
 ![image 18](http://tinytitan.github.io/images/Construction-v1/image18.jpg)
 ![image 19](http://tinytitan.github.io/images/Construction-v1/image19.jpg)
+
+## Step 16
+Carefully flip the enclosure over to the USB facing side, making sure to keep the enclosure aligned.
 ![image 20](http://tinytitan.github.io/images/Construction-v1/image20.jpg)
+
+## Step 17
+Insert each of the 6 nuts and bolts as was done on the previous side. Again, do not tighten the bolts.
 ![image 21](http://tinytitan.github.io/images/Construction-v1/image21.jpg)
 ![image 22](http://tinytitan.github.io/images/Construction-v1/image22.jpg)
 ![image 23](http://tinytitan.github.io/images/Construction-v1/image23.jpg)
 ![image 24](http://tinytitan.github.io/images/Construction-v1/image24.jpg)
+
+## Step 18
+Locate the side with the HDMI cutout and carefully put it in place.
 ![image 25](http://tinytitan.github.io/images/Construction-v1/image25.jpg)
 ![image 26](http://tinytitan.github.io/images/Construction-v1/image26.jpg)
 ![image 27](http://tinytitan.github.io/images/Construction-v1/image27.jpg)
+
+## Step 19
+Carefully insert the top of the enclosure without distrupting the other pieces.
 ![image 28](http://tinytitan.github.io/images/Construction-v1/image28.jpg)
 ![image 29](http://tinytitan.github.io/images/Construction-v1/image29.jpg)
+
 ![image 30](http://tinytitan.github.io/images/Construction-v1/image30.jpg)
 ![image 31](http://tinytitan.github.io/images/Construction-v1/image31.jpg)
+
+## Step 20
+Carefully snug up each bolt, too much torque can crack the acrylic.
 ![image 32](http://tinytitan.github.io/images/Construction-v1/image32.jpg)
+
+## Congratulations, you're finished with one cabinet!
 ![image 33](http://tinytitan.github.io/images/Construction-v1/image33.jpg)
 
