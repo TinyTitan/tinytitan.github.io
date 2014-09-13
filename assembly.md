@@ -68,8 +68,9 @@ Locate the acrylic plate with a slot cut out for each SD card and loosely place 
 ![image 13](http://tinytitan.github.io/images/Construction-v1/image13.jpg)
 
 ## Step 13
-Light up each tab and slot on the SD card facing side. The left most piece as shown should be removed for the time being.
+Line up each tab and slot on the SD card facing side.
 ![image 14](http://tinytitan.github.io/images/Construction-v1/image14.jpg)
+The left most piece as shown should be removed for the time being.
 ![image 15](http://tinytitan.github.io/images/Construction-v1/image15.jpg)
 
 ## Step 14
@@ -77,35 +78,38 @@ Inserting the nuts can be tricky so the following will aid in construction. Remo
 ![image 16](http://tinytitan.github.io/images/Construction-v1/image16.jpg)
 
 ## Step 15
-Carefully insert the 6 nuts and 6 bolts as shown below, loosely tightening them just enough to stay in place. <b>DO NOT</b> over tighten the bolts.
+Carefully insert the 6 nuts and 6 bolts as shown below, loosely tighten them just enough to stay in place. <b>DO NOT</b> over tighten the bolts.
 ![image 17](http://tinytitan.github.io/images/Construction-v1/image17.jpg)
 ![image 18](http://tinytitan.github.io/images/Construction-v1/image18.jpg)
 ![image 19](http://tinytitan.github.io/images/Construction-v1/image19.jpg)
+![image 20](http://tinytitan.github.io/images/Construction-v1/image20.jpg)
+![image 20](http://tinytitan.github.io/images/Construction-v1/image21.jpg)
+
 
 ## Step 16
 Carefully flip the enclosure over to the USB facing side, making sure to keep the enclosure aligned.
-![image 20](http://tinytitan.github.io/images/Construction-v1/image20.jpg)
+![image 20](http://tinytitan.github.io/images/Construction-v1/image22.jpg)
 
 ## Step 17
 Insert each of the 6 nuts and bolts as was done on the previous side. Again, do not tighten the bolts.
-![image 21](http://tinytitan.github.io/images/Construction-v1/image21.jpg)
-![image 22](http://tinytitan.github.io/images/Construction-v1/image22.jpg)
-![image 23](http://tinytitan.github.io/images/Construction-v1/image23.jpg)
-![image 24](http://tinytitan.github.io/images/Construction-v1/image24.jpg)
+![image 21](http://tinytitan.github.io/images/Construction-v1/image23.jpg)
+![image 22](http://tinytitan.github.io/images/Construction-v1/image24.jpg)
+![image 23](http://tinytitan.github.io/images/Construction-v1/image25.jpg)
+![image 24](http://tinytitan.github.io/images/Construction-v1/image26.jpg)
 
 ## Step 18
 Locate the side with the HDMI cutout and carefully put it in place.
-![image 25](http://tinytitan.github.io/images/Construction-v1/image25.jpg)
-![image 26](http://tinytitan.github.io/images/Construction-v1/image26.jpg)
-![image 27](http://tinytitan.github.io/images/Construction-v1/image27.jpg)
+![image 25](http://tinytitan.github.io/images/Construction-v1/image27.jpg)
+![image 26](http://tinytitan.github.io/images/Construction-v1/image28.jpg)
+![image 27](http://tinytitan.github.io/images/Construction-v1/image29.jpg)
 
 ## Step 19
 Carefully insert the top of the enclosure without distrupting the other pieces.
-![image 28](http://tinytitan.github.io/images/Construction-v1/image28.jpg)
-![image 29](http://tinytitan.github.io/images/Construction-v1/image29.jpg)
+![image 28](http://tinytitan.github.io/images/Construction-v1/image30.jpg)
+![image 29](http://tinytitan.github.io/images/Construction-v1/image31.jpg)
 
-![image 30](http://tinytitan.github.io/images/Construction-v1/image30.jpg)
-![image 31](http://tinytitan.github.io/images/Construction-v1/image31.jpg)
+![image 30](http://tinytitan.github.io/images/Construction-v1/image32.jpg)
+![image 31](http://tinytitan.github.io/images/Construction-v1/image33.jpg)
 
 ## Step 20
 Carefully snug up each bolt, too much torque can crack the acrylic.
