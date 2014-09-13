@@ -112,6 +112,7 @@ Carefully insert the top of the enclosure without distrupting the other pieces.
 Carefully snug up each bolt, too much torque can crack the acrylic.
 ![image 32](http://tinytitan.github.io/images/Construction-v1/image32.jpg)
 
-## Congratulations, you're finished with one cabinet!
+## Step 21
+Congratulations, you're finished!
 ![image 33](http://tinytitan.github.io/images/Construction-v1/image33.jpg)
 
