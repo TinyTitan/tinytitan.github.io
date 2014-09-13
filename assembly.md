@@ -83,33 +83,30 @@ Carefully insert the 6 nuts and 6 bolts as shown below, loosely tighten them jus
 ![image 18](http://tinytitan.github.io/images/Construction-v1/image18.jpg)
 ![image 19](http://tinytitan.github.io/images/Construction-v1/image19.jpg)
 ![image 20](http://tinytitan.github.io/images/Construction-v1/image20.jpg)
-![image 20](http://tinytitan.github.io/images/Construction-v1/image21.jpg)
+![image 21](http://tinytitan.github.io/images/Construction-v1/image21.jpg)
 
 
 ## Step 16
 Carefully flip the enclosure over to the USB facing side, making sure to keep the enclosure aligned.
-![image 20](http://tinytitan.github.io/images/Construction-v1/image22.jpg)
+![image 22](http://tinytitan.github.io/images/Construction-v1/image22.jpg)
 
 ## Step 17
 Insert each of the 6 nuts and bolts as was done on the previous side. Again, do not tighten the bolts.
-![image 21](http://tinytitan.github.io/images/Construction-v1/image23.jpg)
-![image 22](http://tinytitan.github.io/images/Construction-v1/image24.jpg)
-![image 23](http://tinytitan.github.io/images/Construction-v1/image25.jpg)
-![image 24](http://tinytitan.github.io/images/Construction-v1/image26.jpg)
+![image 23](http://tinytitan.github.io/images/Construction-v1/image23.jpg)
+![image 24](http://tinytitan.github.io/images/Construction-v1/image24.jpg)
+![image 25](http://tinytitan.github.io/images/Construction-v1/image25.jpg)
+![image 26](http://tinytitan.github.io/images/Construction-v1/image26.jpg)
 
 ## Step 18
 Locate the side with the HDMI cutout and carefully put it in place.
-![image 25](http://tinytitan.github.io/images/Construction-v1/image27.jpg)
-![image 26](http://tinytitan.github.io/images/Construction-v1/image28.jpg)
-![image 27](http://tinytitan.github.io/images/Construction-v1/image29.jpg)
+![image 27](http://tinytitan.github.io/images/Construction-v1/image27.jpg)
+![image 28](http://tinytitan.github.io/images/Construction-v1/image28.jpg)
+![image 29](http://tinytitan.github.io/images/Construction-v1/image29.jpg)
 
 ## Step 19
 Carefully insert the top of the enclosure without distrupting the other pieces.
-![image 28](http://tinytitan.github.io/images/Construction-v1/image30.jpg)
-![image 29](http://tinytitan.github.io/images/Construction-v1/image31.jpg)
-
-![image 30](http://tinytitan.github.io/images/Construction-v1/image32.jpg)
-![image 31](http://tinytitan.github.io/images/Construction-v1/image33.jpg)
+![image 30](http://tinytitan.github.io/images/Construction-v1/image30.jpg)
+![image 31](http://tinytitan.github.io/images/Construction-v1/image31.jpg)
 
 ## Step 20
 Carefully snug up each bolt, too much torque can crack the acrylic.
