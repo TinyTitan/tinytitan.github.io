@@ -24,7 +24,7 @@ The OLCF has created a set of simple to use scripts to guide you through setting
 Step one will update each Raspberry Pi and configure the name and network settings. To start connect each Pi that will be part of the TinyTitan cluster to an active internet connection. Download the initial setup script and run it in a terminal as such:
 
 ~~~~~~
-$ curl -kfsSLO https://raw.github.com/TinyTitan/TinySetup/master/pi_setup.sh
+$ curl -fsSLO https://raw.github.com/TinyTitan/TinySetup/master/pi_setup.sh
 ~~~~~~
 ~~~~~~
 $ bash pi_setup.sh
